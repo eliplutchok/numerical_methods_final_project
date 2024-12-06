@@ -1,0 +1,576 @@
+{
+  "judgment_battles": {
+    "gpt_4o": {
+      "total_wins": 510,
+      "total_losses": 745,
+      "total_ties": 237,
+      "wins_against": {
+        "gemini_1_5_pro": 292,
+        "sonnet_3_point_5": 68,
+        "o1_preview": 150
+      },
+      "losses_against": {
+        "gemini_1_5_pro": 115,
+        "sonnet_3_point_5": 397,
+        "o1_preview": 233
+      },
+      "ties_against": {
+        "gemini_1_5_pro": 83,
+        "sonnet_3_point_5": 36,
+        "o1_preview": 118
+      }
+    },
+    "sonnet_3_point_5": {
+      "total_wins": 1205,
+      "total_losses": 155,
+      "total_ties": 132,
+      "wins_against": {
+        "gemini_1_5_pro": 442,
+        "gpt_4o": 397,
+        "o1_preview": 366
+      },
+      "losses_against": {
+        "gemini_1_5_pro": 20,
+        "gpt_4o": 68,
+        "o1_preview": 67
+      },
+      "ties_against": {
+        "gemini_1_5_pro": 28,
+        "gpt_4o": 36,
+        "o1_preview": 68
+      }
+    },
+    "o1_preview": {
+      "total_wins": 616,
+      "total_losses": 620,
+      "total_ties": 256,
+      "wins_against": {
+        "gemini_1_5_pro": 316,
+        "gpt_4o": 233,
+        "sonnet_3_point_5": 67
+      },
+      "losses_against": {
+        "gemini_1_5_pro": 104,
+        "gpt_4o": 150,
+        "sonnet_3_point_5": 366
+      },
+      "ties_against": {
+        "gemini_1_5_pro": 70,
+        "gpt_4o": 118,
+        "sonnet_3_point_5": 68
+      }
+    },
+    "gemini_1_5_pro": {
+      "total_wins": 239,
+      "total_losses": 1050,
+      "total_ties": 181,
+      "wins_against": {
+        "gpt_4o": 115,
+        "o1_preview": 104,
+        "sonnet_3_point_5": 20
+      },
+      "losses_against": {
+        "gpt_4o": 292,
+        "o1_preview": 316,
+        "sonnet_3_point_5": 442
+      },
+      "ties_against": {
+        "gpt_4o": 83,
+        "o1_preview": 70,
+        "sonnet_3_point_5": 28
+      }
+    }
+  },
+  "bert_score_battles": {
+    "gpt_4o": {
+      "total_wins": 571,
+      "total_losses": 921,
+      "total_ties": 0,
+      "wins_against": {
+        "gemini_1_5_pro": 317,
+        "sonnet_3_point_5": 65,
+        "o1_preview": 189
+      },
+      "losses_against": {
+        "gemini_1_5_pro": 173,
+        "sonnet_3_point_5": 436,
+        "o1_preview": 312
+      },
+      "ties_against": {
+        "gemini_1_5_pro": 0,
+        "sonnet_3_point_5": 0,
+        "o1_preview": 0
+      }
+    },
+    "sonnet_3_point_5": {
+      "total_wins": 1288,
+      "total_losses": 204,
+      "total_ties": 0,
+      "wins_against": {
+        "gemini_1_5_pro": 464,
+        "gpt_4o": 436,
+        "o1_preview": 388
+      },
+      "losses_against": {
+        "gemini_1_5_pro": 26,
+        "gpt_4o": 65,
+        "o1_preview": 113
+      },
+      "ties_against": {
+        "gemini_1_5_pro": 0,
+        "gpt_4o": 0,
+        "o1_preview": 0
+      }
+    },
+    "o1_preview": {
+      "total_wins": 806,
+      "total_losses": 686,
+      "total_ties": 0,
+      "wins_against": {
+        "gemini_1_5_pro": 381,
+        "gpt_4o": 312,
+        "sonnet_3_point_5": 113
+      },
+      "losses_against": {
+        "gemini_1_5_pro": 109,
+        "gpt_4o": 189,
+        "sonnet_3_point_5": 388
+      },
+      "ties_against": {
+        "gemini_1_5_pro": 0,
+        "gpt_4o": 0,
+        "sonnet_3_point_5": 0
+      }
+    },
+    "gemini_1_5_pro": {
+      "total_wins": 308,
+      "total_losses": 1162,
+      "total_ties": 0,
+      "wins_against": {
+        "gpt_4o": 173,
+        "o1_preview": 109,
+        "sonnet_3_point_5": 26
+      },
+      "losses_against": {
+        "gpt_4o": 317,
+        "o1_preview": 381,
+        "sonnet_3_point_5": 464
+      },
+      "ties_against": {
+        "gpt_4o": 0,
+        "o1_preview": 0,
+        "sonnet_3_point_5": 0
+      }
+    }
+  },
+  "text_embedding_ada_002_battles": {
+    "gpt_4o": {
+      "total_wins": 594,
+      "total_losses": 898,
+      "total_ties": 0,
+      "wins_against": {
+        "gemini_1_5_pro": 319,
+        "sonnet_3_point_5": 73,
+        "o1_preview": 202
+      },
+      "losses_against": {
+        "gemini_1_5_pro": 171,
+        "sonnet_3_point_5": 428,
+        "o1_preview": 299
+      },
+      "ties_against": {
+        "gemini_1_5_pro": 0,
+        "sonnet_3_point_5": 0,
+        "o1_preview": 0
+      }
+    },
+    "sonnet_3_point_5": {
+      "total_wins": 1267,
+      "total_losses": 225,
+      "total_ties": 0,
+      "wins_against": {
+        "gemini_1_5_pro": 446,
+        "gpt_4o": 428,
+        "o1_preview": 393
+      },
+      "losses_against": {
+        "gemini_1_5_pro": 44,
+        "gpt_4o": 73,
+        "o1_preview": 108
+      },
+      "ties_against": {
+        "gemini_1_5_pro": 0,
+        "gpt_4o": 0,
+        "o1_preview": 0
+      }
+    },
+    "o1_preview": {
+      "total_wins": 769,
+      "total_losses": 723,
+      "total_ties": 0,
+      "wins_against": {
+        "gemini_1_5_pro": 362,
+        "gpt_4o": 299,
+        "sonnet_3_point_5": 108
+      },
+      "losses_against": {
+        "gemini_1_5_pro": 128,
+        "gpt_4o": 202,
+        "sonnet_3_point_5": 393
+      },
+      "ties_against": {
+        "gemini_1_5_pro": 0,
+        "gpt_4o": 0,
+        "sonnet_3_point_5": 0
+      }
+    },
+    "gemini_1_5_pro": {
+      "total_wins": 343,
+      "total_losses": 1127,
+      "total_ties": 0,
+      "wins_against": {
+        "gpt_4o": 171,
+        "o1_preview": 128,
+        "sonnet_3_point_5": 44
+      },
+      "losses_against": {
+        "gpt_4o": 319,
+        "o1_preview": 362,
+        "sonnet_3_point_5": 446
+      },
+      "ties_against": {
+        "gpt_4o": 0,
+        "o1_preview": 0,
+        "sonnet_3_point_5": 0
+      }
+    }
+  },
+  "nv_embed_v2_battles": {
+    "gpt_4o": {
+      "total_wins": 646,
+      "total_losses": 846,
+      "total_ties": 0,
+      "wins_against": {
+        "gemini_1_5_pro": 290,
+        "sonnet_3_point_5": 106,
+        "o1_preview": 250
+      },
+      "losses_against": {
+        "gemini_1_5_pro": 200,
+        "sonnet_3_point_5": 395,
+        "o1_preview": 251
+      },
+      "ties_against": {
+        "gemini_1_5_pro": 0,
+        "sonnet_3_point_5": 0,
+        "o1_preview": 0
+      }
+    },
+    "sonnet_3_point_5": {
+      "total_wins": 1181,
+      "total_losses": 311,
+      "total_ties": 0,
+      "wins_against": {
+        "gemini_1_5_pro": 401,
+        "gpt_4o": 395,
+        "o1_preview": 385
+      },
+      "losses_against": {
+        "gemini_1_5_pro": 89,
+        "gpt_4o": 106,
+        "o1_preview": 116
+      },
+      "ties_against": {
+        "gemini_1_5_pro": 0,
+        "gpt_4o": 0,
+        "o1_preview": 0
+      }
+    },
+    "o1_preview": {
+      "total_wins": 659,
+      "total_losses": 833,
+      "total_ties": 0,
+      "wins_against": {
+        "gemini_1_5_pro": 292,
+        "gpt_4o": 251,
+        "sonnet_3_point_5": 116
+      },
+      "losses_against": {
+        "gemini_1_5_pro": 198,
+        "gpt_4o": 250,
+        "sonnet_3_point_5": 385
+      },
+      "ties_against": {
+        "gemini_1_5_pro": 0,
+        "gpt_4o": 0,
+        "sonnet_3_point_5": 0
+      }
+    },
+    "gemini_1_5_pro": {
+      "total_wins": 487,
+      "total_losses": 983,
+      "total_ties": 0,
+      "wins_against": {
+        "gpt_4o": 200,
+        "o1_preview": 198,
+        "sonnet_3_point_5": 89
+      },
+      "losses_against": {
+        "gpt_4o": 290,
+        "o1_preview": 292,
+        "sonnet_3_point_5": 401
+      },
+      "ties_against": {
+        "gpt_4o": 0,
+        "o1_preview": 0,
+        "sonnet_3_point_5": 0
+      }
+    }
+  },
+  "consistency_battles": {
+    "gpt_4o": {
+      "total_wins": 538,
+      "total_losses": 938,
+      "total_ties": 16,
+      "wins_against": {
+        "gemini_1_5_pro": 278,
+        "sonnet_3_point_5": 127,
+        "o1_preview": 133
+      },
+      "losses_against": {
+        "gemini_1_5_pro": 209,
+        "sonnet_3_point_5": 365,
+        "o1_preview": 364
+      },
+      "ties_against": {
+        "gemini_1_5_pro": 3,
+        "sonnet_3_point_5": 9,
+        "o1_preview": 4
+      }
+    },
+    "sonnet_3_point_5": {
+      "total_wins": 1229,
+      "total_losses": 251,
+      "total_ties": 12,
+      "wins_against": {
+        "gemini_1_5_pro": 455,
+        "gpt_4o": 365,
+        "o1_preview": 409
+      },
+      "losses_against": {
+        "gemini_1_5_pro": 35,
+        "gpt_4o": 127,
+        "o1_preview": 89
+      },
+      "ties_against": {
+        "gemini_1_5_pro": 0,
+        "gpt_4o": 9,
+        "o1_preview": 3
+      }
+    },
+    "o1_preview": {
+      "total_wins": 775,
+      "total_losses": 709,
+      "total_ties": 8,
+      "wins_against": {
+        "gemini_1_5_pro": 322,
+        "gpt_4o": 364,
+        "sonnet_3_point_5": 89
+      },
+      "losses_against": {
+        "gemini_1_5_pro": 167,
+        "gpt_4o": 133,
+        "sonnet_3_point_5": 409
+      },
+      "ties_against": {
+        "gemini_1_5_pro": 1,
+        "gpt_4o": 4,
+        "sonnet_3_point_5": 3
+      }
+    },
+    "gemini_1_5_pro": {
+      "total_wins": 411,
+      "total_losses": 1055,
+      "total_ties": 4,
+      "wins_against": {
+        "gpt_4o": 209,
+        "o1_preview": 167,
+        "sonnet_3_point_5": 35
+      },
+      "losses_against": {
+        "gpt_4o": 278,
+        "o1_preview": 322,
+        "sonnet_3_point_5": 455
+      },
+      "ties_against": {
+        "gpt_4o": 3,
+        "o1_preview": 1,
+        "sonnet_3_point_5": 0
+      }
+    }
+  },
+  "consistency_scores_battles": {
+    "gpt_4o": {
+      "total_wins": 526,
+      "total_losses": 966,
+      "total_ties": 0,
+      "wins_against": {
+        "gemini_1_5_pro": 314,
+        "sonnet_3_point_5": 27,
+        "o1_preview": 185
+      },
+      "losses_against": {
+        "gemini_1_5_pro": 176,
+        "sonnet_3_point_5": 474,
+        "o1_preview": 316
+      },
+      "ties_against": {
+        "gemini_1_5_pro": 0,
+        "sonnet_3_point_5": 0,
+        "o1_preview": 0
+      }
+    },
+    "sonnet_3_point_5": {
+      "total_wins": 1399,
+      "total_losses": 93,
+      "total_ties": 0,
+      "wins_against": {
+        "gemini_1_5_pro": 470,
+        "gpt_4o": 474,
+        "o1_preview": 455
+      },
+      "losses_against": {
+        "gemini_1_5_pro": 20,
+        "gpt_4o": 27,
+        "o1_preview": 46
+      },
+      "ties_against": {
+        "gemini_1_5_pro": 0,
+        "gpt_4o": 0,
+        "o1_preview": 0
+      }
+    },
+    "o1_preview": {
+      "total_wins": 719,
+      "total_losses": 773,
+      "total_ties": 0,
+      "wins_against": {
+        "gemini_1_5_pro": 357,
+        "gpt_4o": 316,
+        "sonnet_3_point_5": 46
+      },
+      "losses_against": {
+        "gemini_1_5_pro": 133,
+        "gpt_4o": 185,
+        "sonnet_3_point_5": 455
+      },
+      "ties_against": {
+        "gemini_1_5_pro": 0,
+        "gpt_4o": 0,
+        "sonnet_3_point_5": 0
+      }
+    },
+    "gemini_1_5_pro": {
+      "total_wins": 329,
+      "total_losses": 1141,
+      "total_ties": 0,
+      "wins_against": {
+        "gpt_4o": 176,
+        "o1_preview": 133,
+        "sonnet_3_point_5": 20
+      },
+      "losses_against": {
+        "gpt_4o": 314,
+        "o1_preview": 357,
+        "sonnet_3_point_5": 470
+      },
+      "ties_against": {
+        "gpt_4o": 0,
+        "o1_preview": 0,
+        "sonnet_3_point_5": 0
+      }
+    }
+  },
+  "consistency_scores_5_versions_battles": {
+    "gpt_4o": {
+      "total_wins": 771,
+      "total_losses": 721,
+      "total_ties": 0,
+      "wins_against": {
+        "gemini_1_5_pro": 411,
+        "sonnet_3_point_5": 13,
+        "o1_preview": 347
+      },
+      "losses_against": {
+        "gemini_1_5_pro": 79,
+        "sonnet_3_point_5": 488,
+        "o1_preview": 154
+      },
+      "ties_against": {
+        "gemini_1_5_pro": 0,
+        "sonnet_3_point_5": 0,
+        "o1_preview": 0
+      }
+    },
+    "sonnet_3_point_5": {
+      "total_wins": 1466,
+      "total_losses": 26,
+      "total_ties": 0,
+      "wins_against": {
+        "gemini_1_5_pro": 487,
+        "gpt_4o": 488,
+        "o1_preview": 491
+      },
+      "losses_against": {
+        "gemini_1_5_pro": 3,
+        "gpt_4o": 13,
+        "o1_preview": 10
+      },
+      "ties_against": {
+        "gemini_1_5_pro": 0,
+        "gpt_4o": 0,
+        "o1_preview": 0
+      }
+    },
+    "o1_preview": {
+      "total_wins": 544,
+      "total_losses": 948,
+      "total_ties": 0,
+      "wins_against": {
+        "gemini_1_5_pro": 380,
+        "gpt_4o": 154,
+        "sonnet_3_point_5": 10
+      },
+      "losses_against": {
+        "gemini_1_5_pro": 110,
+        "gpt_4o": 347,
+        "sonnet_3_point_5": 491
+      },
+      "ties_against": {
+        "gemini_1_5_pro": 0,
+        "gpt_4o": 0,
+        "sonnet_3_point_5": 0
+      }
+    },
+    "gemini_1_5_pro": {
+      "total_wins": 192,
+      "total_losses": 1278,
+      "total_ties": 0,
+      "wins_against": {
+        "gpt_4o": 79,
+        "o1_preview": 110,
+        "sonnet_3_point_5": 3
+      },
+      "losses_against": {
+        "gpt_4o": 411,
+        "o1_preview": 380,
+        "sonnet_3_point_5": 487
+      },
+      "ties_against": {
+        "gpt_4o": 0,
+        "o1_preview": 0,
+        "sonnet_3_point_5": 0
+      }
+    }
+  }
+}

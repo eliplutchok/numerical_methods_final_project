@@ -1,0 +1,44 @@
+{
+  "judgment_battles": {
+    "sonnet_3_point_5": 1227.0690178957607,
+    "o1_preview": 989.2301066604416,
+    "gpt_4o": 975.3468802445974,
+    "gemini_1_5_pro": 808.3539951992356
+  },
+  "bert_score_battles": {
+    "sonnet_3_point_5": 1257.865967582292,
+    "o1_preview": 988.4011226374233,
+    "gpt_4o": 933.9084515613155,
+    "gemini_1_5_pro": 819.8244582188887
+  },
+  "text_embedding_ada_002_battles": {
+    "sonnet_3_point_5": 1264.313141806736,
+    "o1_preview": 994.8184862301068,
+    "gpt_4o": 953.7080863825172,
+    "gemini_1_5_pro": 787.1602855806074
+  },
+  "consistency_battles": {
+    "sonnet_3_point_5": 1221.1512272252128,
+    "o1_preview": 982.9101688659571,
+    "gpt_4o": 931.7995559775284,
+    "gemini_1_5_pro": 864.1390479313809
+  },
+  "consistency_scores_battles": {
+    "sonnet_3_point_5": 1411.7066433577477,
+    "o1_preview": 949.0269071647174,
+    "gpt_4o": 853.0420598020373,
+    "gemini_1_5_pro": 786.224389675482
+  },
+  "nv_embed_v2_battles": {
+    "sonnet_3_point_5": 1207.061170216786,
+    "gpt_4o": 937.2510501779187,
+    "gemini_1_5_pro": 932.3145690650637,
+    "o1_preview": 923.3732105401382
+  },
+  "consistency_scores_5_versions_battles": {
+    "sonnet_3_point_5": 1558.6795629042697,
+    "gpt_4o": 959.2287594571778,
+    "o1_preview": 842.3395908408862,
+    "gemini_1_5_pro": 639.7520867976315
+  }
+}
